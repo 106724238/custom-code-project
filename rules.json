@@ -1,0 +1,10 @@
+{
+    "starting_balance": 1000,
+    "min_bet": 10,
+    "tai_range": [11, 17],
+    "xiu_range": [4, 10],
+    "win_multiplier": 1,
+    "triple_multiplier": 3,
+    "history_size": 5,
+    "save_file": "save.json"
+}
